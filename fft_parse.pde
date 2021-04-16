@@ -5,7 +5,7 @@ import ddf.minim.spi.*;
 
 VideoExport videoExport;
 
-String audioFilePath = "C:\\Users\\busybox\\Desktop\\sounds\\k_o_m\\TRACKS\\4tune.wav";
+String audioFilePath = "song_path";
 
 
 String SEP = "|";
